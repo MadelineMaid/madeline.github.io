@@ -8,6 +8,6 @@
     </style>
   </head>
   <body>
-    <h1>Test</h1>
+    <video src='mariotomato.mp4'></video>
   </body>
 </html>
